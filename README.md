@@ -13,6 +13,7 @@ Disadvantages:
 
 Recommended Uses:
 	please dont
+	
 How it works:
 
 Shuffles the array it's given, waits 2 seconds, and shuffles again until its sorted.
@@ -30,3 +31,19 @@ Disadvantages:
 
 Recommended uses:
 	i mean its faster but still please dont
+
+====================================================================================
+
+ShoopSort is a conceptual algorithm that gives up if it isn't already sorted. 
+
+Advantadges:
+	Fast
+	Quick yes or no answers
+
+Disadvantadges: 
+	Essentially all of it. 
+
+Recommended uses:
+	no idea
+
+====================================================================================
